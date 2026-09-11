@@ -1,0 +1,6 @@
+{
+  "name": "CardioPredict AI - Heart Disease ML Diagnostic Platform",
+  "description": "Clinical machine learning platform with Logistic Regression, SVM, Random Forest, and Neural Networks, real-time risk factor analysis, EHR interoperability, and SDKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
